@@ -1,0 +1,74 @@
+{
+    "sidebar": {
+        "dashboard": "Dashboard",
+        "users": "Users",
+        "products": "Products",
+        "orders": "Orders",
+        "delivery": "Delivery",
+        "stats": "Stats",
+        "notif": "Notifications",
+        "sysHealth": "System Health",
+        "logs": "Logs",
+        "settings": "Settings",
+        "profile": "Profile",
+        "logout": "Logout"
+    },
+    "testing":{
+        "1": "For Testing"
+    },
+    "info":{
+        "2": "Information"
+    },
+    "search":{
+        "3": "Search..."
+    },
+    "profile" : {
+        "name" : "Jeoganni Canda",
+        "age" : "AGE",
+        "occupation" : "OCCUPATION",
+        "status" : "STATUS",
+        "bday" : "DATE OF BIRTH",
+        "location" : "LOCATION",
+        "phone" : "MOBILE",
+        "role" : "Software Developer",
+        "aboutMe_body" : "I am outgoing, dedicated, and open-minded. I get across to people and adjust to changes with ease. I believe that a person should work on developing their professional skills and learning new things all the time. Currently, I am looking for new career opportunities my current job position cannot provide.",  
+        "company" : "Mlhuillier Financial Services, B. Benedicto St., NRA., Cebu City 2015 - 2021",   
+        "expDetail_1" : "l create applications across multiple platforms.",           
+        "expDetail_2" : "l create web-based applications.",           
+        "expDetail_3" : "l modify existing applications.",           
+        "expDetail_4" : "l maintain the web service API’s application to avoid an error.",           
+        "expDetail_5" : "l debugging errors.",           
+        "expDetail_6" : "l upgrade obsolete applications to the latest platform or versions.",           
+        "expDetail_7" : "l test and evaluate the existing programs to identify and help remove bugs, glitches, and other user issues.",           
+        "expDetail_8" : "l configure web server like IIS for dev testing.",           
+        "expDetail_9" : "l publish a new create and fixed web service to the server.",           
+        "expDetail_10" : "Accessing database, and troubleshooting problems for the applications.",
+        "expDetail_11" : "Assisting front-end developers in integrating my web service/API(.NETCore) to their web applications(ReactJS, MVC).",
+        "expDetail_12" : "l configure Linux OS to be used in the Web API service and ReactJS.",
+        "expDetail_13" : "l attend stand-up meetings to report issues, To-do or projects already done."
+    },
+    "title" : {
+        "aboutMe" : "ABOUT ME",
+        "role" : "SOFTWARE DEVELOPER",
+        "exp" : "EXPERIENCE",
+        "skills" : "SKILLS",
+        "logo" : "SeedyHub",
+        "main" : "MAIN",
+        "list" : "LISTS",
+        "useful" : "USEFUL",
+        "service" : "SERVICE",
+        "user" : "USER"
+    },
+    "skills" : {
+        "1" : "JavaScript",
+        "2" : "CSS",
+        "3" : "Visual Basic",
+        "4" : "C#",
+        "5" : "MySQL",
+        "6" : "Microsoft SQL Server",
+        "7" : "MS SQL",
+        "8" : "React",
+        "9" : ".NET Web API",
+        "10" : ".NET Core"
+    }
+}

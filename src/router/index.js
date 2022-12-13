@@ -1,0 +1,12 @@
+export { default as Home } from "../pages/home/Home";
+export { default as Login } from "../pages/login/Login";
+export { default as List } from "../pages/list/List";
+export { default as Single } from "../pages/single/Single";
+export { default as New } from "../pages/new/New";
+export { default as Delivery } from "../pages/delivery/Delivery";
+export { default as Stat } from "../pages/stat/Stat";
+export { default as Notification } from "../pages/notification/Notification";
+export { default as Service } from "../pages/service/Service";
+export { default as Log } from "../pages/log/Log";
+export { default as System } from "../pages/system/System";
+export { default as Profile } from "../pages/profile/Profile";
